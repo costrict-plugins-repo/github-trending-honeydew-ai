@@ -1,0 +1,10 @@
+{
+  "name": "honeydew-ai-tools",
+  "version": "1.3.9",
+  "description": "Skills and tools for querying and modeling with the Honeydew semantic layer",
+  "mcpServers": {
+    "honeydew": {
+      "httpUrl": "https://mcp.honeydew.cloud/mcp"
+    }
+  }
+}
